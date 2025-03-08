@@ -1,0 +1,9 @@
+class Primitive{
+public static void main(String [] args){
+class Intinit{
+int age=20,salary=30000, year=2025,distance=200,people=20;
+System.out.println("init values:"+age "+"salary"+"year"+"distance"+"people");
+}
+
+}
+}
